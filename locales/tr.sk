@@ -206,6 +206,7 @@ on load:
 	set {Tutorial_2} to "&6/skywars wand &e&okomutunu kullanarak %{Item_Arrow}% &e&oalabilirsin."
 	set {Tutorial_3} to "&e&oArenanın doğuş noktalarını ve lobisini belirlemek için &6/sw manage &e&okomutunu kullan."
 	set {Tutorial_4} to "&e&oHerşeyi belirledikten sonra &n&6arenayı aktif etmeyi &e&ounutma!"
+	set {Wand_Added} to "&aEşya envanterinize eklendi."
 	
 #
 #

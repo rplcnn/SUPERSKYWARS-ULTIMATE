@@ -231,5 +231,6 @@ on load:
 	set {Glass_2} to "&7Rengi seçmek için buraya tıkla."
 	set {Glass_3} to "&7Cam rengi &e{COINS} &7jetona satın alındı."
 	set {Glass_4} to "&aCam rengi başarılı bir şekilde seçildi."
+	set {Already_Have_Glass} to "&cZaten bu cam rengini seçmişsin!"
 #
 #

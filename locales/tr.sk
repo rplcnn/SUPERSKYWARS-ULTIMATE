@@ -201,6 +201,7 @@ on load:
 	set {Arena_GUI_9_Lore} to "||&7&oArenadaki sandıkları yenilemek için tıkla."
 	set {Arena_GUI_10} to "&aTamamen Yenile"
 	set {Arena_GUI_10_Lore} to "||&7&oArenayı eski haline getirmek için tıkla."
+	set {Click_Edit} to "||&7&oBu arenayı değiştirmek için tıkla."
 	
 #
 #

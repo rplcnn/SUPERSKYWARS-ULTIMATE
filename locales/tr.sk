@@ -219,5 +219,6 @@ on load:
 	set {Error_Min_Max} to "&cMinimum oyuncu sayısı, maksimum oyuncu sayısından büyük olamaz!"
 	set {Error_Max_Min} to "&cMaksimum oyuncu sayısı, minimum oyuncu sayısından küçük olamaz!"
 	set {SetSpawn_Header} to "&8&l» &8Doğuş Yerleri"
+	set {SetSpawn_Lore} to "||&7Olduğun yeri &e{NUMBER}. doğuş yeri &7yapmak için tıkla."
 #
 #

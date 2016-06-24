@@ -24,6 +24,7 @@ on load:
 	set {Help_Page_3::3} to "&a/sw locale <dil> &8&m-&r &7Eklenti dilini değiştirir."
 	set {Help_Page_3::4} to "&a/sw kits &8&m-&r &7Kitlerini gösterir."
 	set {Help_Page_3::5} to "&a/sw setplayers <arena> <min/max> <number> &8&m-&r &7Min ve maks oyuncu sayısını ayarlar."
+	set {Help_Page_3::6} to "&a/sw manage <arena> &8&m-&r &7Arenayı yönetme menüsünü açar."
 	set {Locale_Set} to "&7Dil ayarlandı:&a"
 	set {Locale_Error_Website} to "&cİnternet bağlantınızı kontrol ediniz!"
 	set {Locale_Error} to "&cBöyle bir dil yok!"

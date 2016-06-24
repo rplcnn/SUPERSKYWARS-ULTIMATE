@@ -213,5 +213,7 @@ on load:
 	set {Set_max_Header} to "&8&l» &8Maks. Oyuncu Sayısı"
 	set {Set_min_Lore} to "||&7En az oyuncu sayısını &e{NUMBER} &7yapmak için tıkla."
 	set {Set_max_Lore} to "||&7En çok oyuncu sayısını &e{NUMBER} &7yapmak için tıkla."
+	set {Set_min_Done} to "&a{ARENA} &7arenasının en az oyuncu sayısı &e{NUMBER} &7olarak ayarlandı."
+	set {Set_max_Done} to "&a{ARENA} &7arenasının en çok oyuncu sayısı &e{NUMBER} &7olarak ayarlandı."
 #
 #

@@ -234,5 +234,7 @@ on load:
 	set {Already_Have_Glass} to "&cZaten bu cam rengini seçmişsin!"
 	set {Death_Title} to "ÖLDÜN!"
 	set {Death_SubTitle} to "Artık bir ölüsün!"
+	set {Win_Title} to "OYUN BİTTİ!"
+	set {Win_SubTitle} to "Kazanan: {WINNER}"
 #
 #

@@ -218,5 +218,6 @@ on load:
 	set {Set_max_Done} to "&a{ARENA} &7arenasının en çok oyuncu sayısı &e{NUMBER} &7olarak ayarlandı."
 	set {Error_Min_Max} to "&cMinimum oyuncu sayısı, maksimum oyuncu sayısından büyük olamaz!"
 	set {Error_Max_Min} to "&cMaksimum oyuncu sayısı, minimum oyuncu sayısından küçük olamaz!"
+	set {SetSpawn_Header} to "&8&l» &8Doğuş Yerleri"
 #
 #

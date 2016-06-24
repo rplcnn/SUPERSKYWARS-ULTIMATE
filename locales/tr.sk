@@ -224,5 +224,6 @@ on load:
 	set {SetSpawn_Lore} to "||&7Olduğun yeri &e{NUMBER}. doğuş yeri &7yapmak için tıkla."
 	set {Item_Emerald} to "&2&lYÖNET: &7"
 	set {Item_Emerald_Lore} to "||&7&oBu arenayı hızlıca yönetmek için sağ tıkla."
+	set {Start_With_No_Kit} to "&7Kit seçmediğiniz için oyuna kitsiz başladınız."
 #
 #

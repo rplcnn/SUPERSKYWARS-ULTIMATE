@@ -223,5 +223,6 @@ on load:
 	set {SetSpawn_Header} to "&8&l» &8Doğuş Yerleri"
 	set {SetSpawn_Lore} to "||&7Olduğun yeri &e{NUMBER}. doğuş yeri &7yapmak için tıkla."
 	set {Item_Emerald} to "&2&lYÖNET: &7"
+	set {Item_Emerald_Lore} to "||&7&oBu arenayı hızlıca yönetmek için sağ tıkla."
 #
 #

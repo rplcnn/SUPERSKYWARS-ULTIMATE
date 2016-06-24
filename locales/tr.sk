@@ -226,5 +226,9 @@ on load:
 	set {Item_Emerald_Lore} to "||&7&oBu arenayı hızlıca yönetmek için sağ tıkla."
 	set {Start_With_No_Kit} to "&7Kit seçmediğiniz için oyuna kitsiz başladınız."
 	set {Already_Have_Kit} to "&cZaten bu kiti seçmişsin!"
+	set {Glass_1} to "&aRengi satın almak için buraya tıkla."
+	set {Glass_2} to "&7Rengi seçmek için buraya tıkla."
+	set {Glass_3} to "&7Cam rengi &e{COINS} &7jetona satın alındı."
+	set {Glass_4} to "&aCam rengi başarılı bir şekilde seçildi."
 #
 #

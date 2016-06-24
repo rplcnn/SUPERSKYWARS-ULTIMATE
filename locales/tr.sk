@@ -163,7 +163,7 @@ on load:
 	set {Death_4} to "&c&lÖldün! &cYeni bir oyun bulmak için &f/skywars &ckomutunu kullan."
 	set {No_Action_Lobby} to "&cOyun lobisinde hiç bir eylemde bulunamazsın!"
 	set {No_Action_Spec} to "&cİzleyici modundayken hiç bir eylemde bulunamazsın!"
-	set {Arena_Rebuild_1} to "&a{ARENA} &7arenasının yenilenmesi başlıyor, başlangıç saati: &e{TIME}"
+	set {Arena_Rebuild_1} to "&a{ARENA} &7arenasının yenilenmesi başlıyor..."
 	set {Arena_Rebuild_2} to "&a{ARENA} &7arenasının yenilenmesi bitti, geçen süre: &e{TIME}"
 	set {Command_Debug_1} to "&a{ARENA} &7arenasının tüm verileri sıfırlandı, yenileniyor..."
 	set {Text_seconds} to "saniye"

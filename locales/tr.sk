@@ -209,6 +209,7 @@ on load:
 	set {Tutorial_2} to "&6/skywars wand &e&okomutunu kullanarak &d{WAND} &e&oalabilirsin."
 	set {Tutorial_3} to "&e&oArenanın doğuş noktalarını ve lobisini belirlemek için &6/sw manage &e&okomutunu kullan."
 	set {Tutorial_4} to "&e&oHerşeyi belirledikten sonra &n&6arenayı aktif etmeyi &e&ounutma!"
+	set {Tutorial_5} to "&7Hızlıca yönetim menüsünü açmak için envanterindeki &2zümrütü &7kullan."
 	set {Wand_Added} to "&aEşya envanterinize eklendi."
 	set {Not_Set} to "&c&lAYARLANMAMIŞ"
 	set {Set_min_Header} to "&8&l» &8Min. Oyuncu Sayısı"

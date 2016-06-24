@@ -202,6 +202,10 @@ on load:
 	set {Arena_GUI_10} to "&aTamamen Yenile"
 	set {Arena_GUI_10_Lore} to "||&7&oArenayı eski haline getirmek için tıkla."
 	set {Click_Edit} to "||&7&oBu arenayı değiştirmek için tıkla."
+	set {Tutorial_1} to "&e&oBir arena oluşturmak için %{Item_Arrow}% &r&e&oile arenanın alanını seç."
+	set {Tutorial_2} to "&6/skywars wand &e&okomutunu kullanarak %{Item_Arrow}% &e&oalabilirsin."
+	set {Tutorial_3} to "&e&oArenanın doğuş noktalarını ve lobisini belirlemek için &6/sw manage &e&okomutunu kullan."
+	set {Tutorial_4} to "&e&oHerşeyi belirledikten sonra &n&6arenayı aktif etmeyi &e&ounutma!"
 	
 #
 #

@@ -209,6 +209,6 @@ on load:
 	set {Tutorial_4} to "&e&oHerşeyi belirledikten sonra &n&6arenayı aktif etmeyi &e&ounutma!"
 	set {Wand_Added} to "&aEşya envanterinize eklendi."
 	set {Not_Set} to "&c&lAYARLANMAMIŞ"
-	
+	set {Set_Max_Min_Header} to "&8&l» &8Maks/Min Oyuncu Sayısı"
 #
 #

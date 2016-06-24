@@ -236,5 +236,6 @@ on load:
 	set {Death_SubTitle} to "Artık bir ölüsün!"
 	set {Win_Title} to "OYUN BİTTİ!"
 	set {Win_SubTitle} to "Kazanan: {WINNER}"
+	set {Starting_Title} to "OYUN BAŞLIYOR!"
 #
 #

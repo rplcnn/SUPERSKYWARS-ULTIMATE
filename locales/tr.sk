@@ -232,5 +232,7 @@ on load:
 	set {Glass_3} to "&7Cam rengi &e{COINS} &7jetona satın alındı."
 	set {Glass_4} to "&aCam rengi başarılı bir şekilde seçildi."
 	set {Already_Have_Glass} to "&cZaten bu cam rengini seçmişsin!"
+	set {Death_Title} to "ÖLDÜN!"
+	set {Death_SubTitle} to "Artık bir ölüsün!"
 #
 #

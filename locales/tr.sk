@@ -207,6 +207,7 @@ on load:
 	set {Tutorial_3} to "&e&oArenanın doğuş noktalarını ve lobisini belirlemek için &6/sw manage &e&okomutunu kullan."
 	set {Tutorial_4} to "&e&oHerşeyi belirledikten sonra &n&6arenayı aktif etmeyi &e&ounutma!"
 	set {Wand_Added} to "&aEşya envanterinize eklendi."
+	set {Not_Set} to "&c&lAYARLANMAMIŞ"
 	
 #
 #

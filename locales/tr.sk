@@ -57,7 +57,7 @@ on load:
 	set {Item_Bed} to "&c&lLOBİYE DÖN"
 	set {Item_Vote} to "&a&lOYLA"
 	set {Item_Clock} to "&d&lKİTİNİ SEÇ"
-	set {Vote_Message_1} to "&a/sw vote <easy/medium/hard> &7komutu ile sandıkları oylayabilirsiniz."
+	set {Vote_Message_1} to "&a/sw vote &7komutu ile sandıkları oylayabilirsiniz."
 	set {Vote_Counts} to "&8Oy sayıları »"
 	set {Vote_Text::easy} to "&aKolay sandık"
 	set {Vote_Text::medium} to "&eOrta sandık"

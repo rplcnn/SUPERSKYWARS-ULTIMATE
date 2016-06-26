@@ -190,7 +190,7 @@ on load:
 	set {Text_Free} to "Ücretsiz"
 	set {Arena_GUI_Header} to "&8&l» &8Arenayı Yönet"
 	set {Arena_GUI_1} to "&aArena Durumu:"
-	set {Arena_GUI_1_Lore} to "||&7Arena: &f{ARENA}||&7Arena durumu: {STATUS}||&7Oyuncular: &f{PLAYERS}/{MAX}||&7Sandık türü: &f{TYPE}||&7İzleyiciler: &f{SPEC}||||&e&oArenayı başlatmak için tıkla."
+	set {Arena_GUI_1_Lore} to "||&7Arena: &f{ARENA}||&7Arena durumu: {STATUS}||&7Oyuncular: &f{PLAYERS}/{MAX}||&7İzleyiciler: &f{SPEC}||||&e&oArenayı başlatmak için tıkla."
 	set {Arena_GUI_2} to "&aArenayı Aç"
 	set {Arena_GUI_2_Lore} to "||&7&oArenayı açmak için tıkla."
 	set {Arena_GUI_3} to "&aArenayı Kapat"

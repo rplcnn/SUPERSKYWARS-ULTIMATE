@@ -246,6 +246,7 @@ on load:
 	set {Vote_GUI_Header} to "&8&l» &8Sandıkları Oyla"
 	set {Vote_GUI_Lore} to "||&7Oy sayısı: &e{VOTES} oy||&7&oBu sandık zorluğunu oylamak için tıkla."
 	set {Vote_Player} to "&a{ARENA} &7arenası için {TYPE}ı &7oyladınız."
+	set {Chest_Chosen} to "&7Oy birliği ile {TYPE} &7seçildi."
 	
 #
 #

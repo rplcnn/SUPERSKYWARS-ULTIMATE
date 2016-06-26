@@ -63,7 +63,6 @@ on load:
 	set {Vote_Text::easy} to "&aKolay sandıklar"
 	set {Vote_Text::medium} to "&eOrta sandıklar"
 	set {Vote_Text::hard} to "&cZor sandıklar"
-	set {Vote_Text::*} to "Belirlenmemiş"
 	set {Votes_Text} to "&f{NUM}.&r {TYPE} &8&m-&r &7{VOTES} oy."
 	set {Item_Glass} to "&a&lCAM RENGİ"
 	set {Error_AlreadyGame} to "&cŞuan bir oyundasın!"

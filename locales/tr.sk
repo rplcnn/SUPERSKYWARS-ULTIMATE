@@ -27,6 +27,7 @@ on load:
 	set {Help_Page_3::6} to "&a/sw manage <arena> &8&m-&r &7Arenayı yönetme menüsünü açar."
 	set {Help_Page_3::7} to "&a/sw glass &8&m-&r &7Cam renklerini gösterir."
 	set {Help_Page_4::1} to "&a/sw vote <easy/medium/hard> &8&m-&r &7Sandık türünü oylar."
+	set {Help_Page_4::2} to "&a/sw start <arena> &8&m-&r &7Arenayı başlatır."
 	set {Locale_Set} to "&7Dil ayarlandı:&a"
 	set {Locale_Error_Website} to "&cİnternet bağlantınızı kontrol ediniz!"
 	set {Locale_Error} to "&cBöyle bir dil yok!"

@@ -113,7 +113,6 @@ on load:
 	set {Stats_Menu_5} to "&aOynanmış oyun sayısı:"
 	set {Text_Win} to "&6{WINNER} &7adlı oyuncu &e{ARENA} &7arenasını kazandı."
 	set {GUI_Header_list} to "&8&l» &8Arena Listesi"
-	set {noVariable_Found} to "&cHiç değer bulunamadı!"
 	set {Click_Join} to "&7Katılmak için tıkla!"
 	set {Text_Players} to "&7Oyuncular: &e"
 	set {Text_Time} to "&7Kalan süre: &e"
@@ -244,5 +243,8 @@ on load:
 	set {Clock_Title} to "ZAMAN DARALIYOR!"
 	set {Error_Feature_Disable} to "&cBu özellik devre-dışı!"
 	set {Error_GameStarted} to "&cBu oyun başladığı için bunu gerçekleştiremezsin!"
+	set {Vote_GUI_Header} to "&8&l» &8Sandıkları Oyla"
+	set {Vote_GUI_Lore} to "||&7Oy sayısı: &e{VOTES} oy||&7&oBu sandık zorluğunu oylamak için tıkla."
+	
 #
 #

@@ -242,5 +242,7 @@ on load:
 	set {Win_SubTitle} to "Kazanan: {WINNER}"
 	set {Starting_Title} to "OYUN BAŞLIYOR!"
 	set {Clock_Title} to "ZAMAN DARALIYOR!"
+	set {Error_Feature_Disable} to "&cBu özellik devre-dışı!"
+	set {Error_GameStarted} to "&cBu oyun başladığı için bunu gerçekleştiremezsin!"
 #
 #

@@ -251,11 +251,11 @@ on load:
 	set {Game_Starting} to "&a{ARENA} &7arenası başlatılıyor..."
 	set {Not_Enough_Players} to "&cBunun için yeteri kadar oyuncu yok!"
 	set {Top_GUI_Header} to "&8&l» &8En İyiler"
-	set {Top_Name_1} to "&aEn Fazla Jetona Sahipler:"
-	set {Top_Name_2} to "&aEn Fazla Kazananlar:"
-	set {Top_Name_3} to "&aEn Fazla Öldürenler:"
-	set {Top_Name_4} to "&aEn Fazla Ölenler:"
-	set {Top_Name_5} to "&aEn Fazla Oynayanlar:"
+	set {Top_Name_coins} to "&aEn Fazla Jetona Sahipler:"
+	set {Top_Name_wins} to "&aEn Fazla Kazananlar:"
+	set {Top_Name_kills} to "&aEn Fazla Öldürenler:"
+	set {Top_Name_deaths} to "&aEn Fazla Ölenler:"
+	set {Top_Name_played} to "&aEn Fazla Oynayanlar:"
 	set {Top_Lore} to "||&7&oGörmek için buraya tıkla."
 	
 #
